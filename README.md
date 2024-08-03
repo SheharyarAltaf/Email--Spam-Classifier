@@ -6,9 +6,9 @@ This project implements an email spam classifier using machine learning. The app
 
 ## Features
 
-- **Text Preprocessing**: Cleans and transforms the input email text by converting it to lowercase, removing punctuation and stop words, and applying stemming.<br>
-- **Spam Classification**: Utilizes a machine learning model to classify the input email.<br>
-- **Streamlit Interface**: Simple web interface for user interaction.<br>
+- **Text Preprocessing**: Cleans and transforms the input email text by converting it to lowercase, removing punctuation and stop words, and applying stemming.
+- **Spam Classification**: Utilizes a machine learning model to classify the input email.
+- **Streamlit Interface**: Simple web interface for user interaction.
 
 ## Technologies Used
 
@@ -19,7 +19,7 @@ This project implements an email spam classifier using machine learning. The app
   ![Streamlit](https://streamlit.io/images/brand/streamlit-logo-primary-colour.svg)
 
 - **NLTK**: Library for natural language processing tasks.
-  ![NLTK](https://www.nltk.org/_images/nltk_logo.png)
+  ![NLTK](https://raw.githubusercontent.com/nltk/nltk.github.com/master/images/nltk_logo.png)
 
 - **Pickle**: Used for loading pre-trained models and vectorizers.
   ![Pickle](https://docs.python.org/3/_images/pickle.svg)
