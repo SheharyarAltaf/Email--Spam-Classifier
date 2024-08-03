@@ -13,16 +13,16 @@ This project implements an email spam classifier using machine learning. The app
 ## Technologies Used
 
 - **Python**: Programming language for implementation.
-  ![Python](https://img.shields.io/badge/Python-%23ffffff.svg?style=for-the-badge&logo=Python&logoColor=blue)
+  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&color=306998)
 
 - **Streamlit**: Framework for building the web application interface.
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23ffffff.svg?style=for-the-badge&logo=Streamlit&logoColor=orange)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4F?style=for-the-badge&logo=streamlit&logoColor=white&color=FF4B4F)
 
 - **NLTK**: Library for natural language processing tasks.
-  ![NLTK](https://img.shields.io/badge/NLTK-%23ffffff.svg?style=for-the-badge&logo=NLTK&logoColor=blue)
+  ![NLTK](https://img.shields.io/badge/NLTK-3F6C6B?style=for-the-badge&logo=nltk&logoColor=white&color=3F6C6B)
 
 - **Pickle**: Used for loading pre-trained models and vectorizers.
-  ![Pickle](https://img.shields.io/badge/Pickle-%23ffffff.svg?style=for-the-badge&logo=Pickle&logoColor=blue)
+  ![Pickle](https://img.shields.io/badge/Pickle-FFA500?style=for-the-badge&logo=python&logoColor=white&color=FFA500)
 
 ## Installation
 
