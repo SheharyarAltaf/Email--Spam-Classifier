@@ -12,7 +12,7 @@ This project implements an email spam classifier using machine learning. The app
 
 ## Technologies Used
 
-
+|             |       |
 |-------------|-------|
 | **Python**  | ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&color=306998) |
 | **Streamlit** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4F?style=for-the-badge&logo=streamlit&logoColor=white&color=FF4B4F) |
@@ -22,11 +22,12 @@ This project implements an email spam classifier using machine learning. The app
 ## Installation
 
 To run this project, you need to install the required libraries. Run the following command:
-
 ```bash
 pip install streamlit pandas numpy scikit-learn nltk
 
+```bash
+
 git clone https://github.com/yourusername/email-spam-classifier.git
 cd email-spam-classifier
-# Run the App
-streamlit run app.py
+
+
