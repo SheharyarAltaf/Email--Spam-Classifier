@@ -22,12 +22,9 @@ This project implements an email spam classifier using machine learning. The app
 ## Installation
 
 To run this project, you need to install the required libraries. Run the following command:
+
 ```bash
 pip install streamlit pandas numpy scikit-learn nltk
 
-```bash
-
-git clone https://github.com/yourusername/email-spam-classifier.git
-cd email-spam-classifier
 
 
