@@ -19,6 +19,9 @@ This project implements an email spam classifier using machine learning. The app
 | **NLTK**    | ![NLTK](https://img.shields.io/badge/NLTK-3F6C6B?style=for-the-badge&logo=nltk&logoColor=white&color=3F6C6B) |
 | **Pickle**  | ![Pickle](https://img.shields.io/badge/Pickle-FFA500?style=for-the-badge&logo=python&logoColor=white&color=FFA500) |
 
+## Output Screenshot
+<img src="output.png">
+
 ## Installation
 
 To run this project, you need to install the required libraries. Run the following command:
